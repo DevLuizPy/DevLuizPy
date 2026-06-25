@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Eu sou Luiz, estudante de Ciências Econômicas da UFRRJ - IM,  possuo forte interesse no mercado financeiro e na ciência de dados. Busco utilizar minhas habilidades para analisar e visualizar dados com foco na resolução de problemas.
+Eu sou Luiz, Economista formado em Ciências Econômicas pela UFRRJ - IM,  possuo forte interesse no mercado financeiro e na ciência de dados. Busco utilizar minhas habilidades para analisar e visualizar dados com foco na resolução de problemas.
 ## 🛠 Habilidades Técnicas
 
 
@@ -14,8 +14,7 @@ Eu sou Luiz, estudante de Ciências Econômicas da UFRRJ - IM,  possuo forte int
 
 
 * Microsoft Office (Excel avançado, Word avançado)
-* VBA básico
-* Python intermediário (foco nas bibliotecas pandas, numpy, matplotlib)
+* Python avançado (foco nas bibliotecas pandas, numpy, matplotlib)
 * Github Intermediário.
 * Power BI avançado, com capacidade de criação de dashboards e tratamento de dados.
 * Conhecimento em econometria e estatística
